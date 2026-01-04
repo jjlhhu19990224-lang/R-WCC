@@ -1,0 +1,16 @@
+You must have already installed Microsoft Office 2003 or 2007 before installing the following:
+(You will need administrator priviledges to install these)
+1.) Run owc11.exe (this is the Office Web Components plugin), follow the dialogs
+2.) Run owc2007sp1-kb937961-fullfile-en-us.exe (this is the OWC Service Pack for Office 2007), follow the dialogs
+3.) You may or may not have to reboot
+4.) you can now run wcc.exe
+
+If you ever reinstall or upgrade Office, you may have to repeat step 1 and 2.
+
+
+To use the program:
+
+1.) Click File->Open
+2.) Open example_dyad_data.txt
+3.) Set Window and MaxLag values as needed and click the Apply button
+3.) Click on the visualization to display the associated portions of the function being compared in the bottom chart, and to display the respective correlation value in the bottom right-hand corner.
